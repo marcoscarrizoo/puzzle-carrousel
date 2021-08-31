@@ -1,6 +1,6 @@
 # puzzle-carrousel
 
-<<<<<<< HEAD
+
 <h1>Instrucciones para levantar el proyecto: </h2>
 
 1.Clona el repositorio localmente
@@ -21,6 +21,6 @@ EJEMPLO:
 
 
 <img align-self='center' src="assets\WhatsApp Video 2021-08-30 at 19.17.37 (1).gif" width="50%" height="600" />
-=======
+
 <img src='C:\Users\romy\Desktop\puzzle-carrousel\assets\WhatsApp Video 2021-08-30 at 19.17.37 (1).gif'>
->>>>>>> 3cfdec7482152e69ff5b14195d13364c00a7962a
+
